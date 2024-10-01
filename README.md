@@ -1,10 +1,8 @@
-# WMS100-Afstand-Waterniveau-Set
-Geschikt om afstand te meten, waterniveaus te detecteren en andere toepassingen voor afstanden tot 4 meter.
+# WMS100 - Distance and water level set
+Suitable for measuring distances, detecting water levels, and other applications for distances up to 4 meters.
 
+Programmable ultrasonic distance meter for educational STEM projects, ATmega328 development board. Suitable for measuring distances, detecting water levels, and other applications for distances up to 4 meters.
 
-Programmeerbare ultrasone afstandsmeter voor educatieve STEM projecten, ATmega328 ontwikkelbord. Geschikt om afstand te meten, waterniveaus te detecteren en andere toepassingen voor afstanden tot 4 meter.Programmeerbare ultrasone afstandsmeter voor educatieve STEM projecten, ATmega328 ontwikkelbord. Geschikt om afstand te meten, waterniveaus te detecteren en andere toepassingen voor afstanden tot 4 meter.
+The included Arduino is pre-programmed, and the source code can be downloaded above. You can also download the included connection diagram here.
 
-De meegelverde arduino is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
-Het meegeleverde aansluitschema kan je hier ook downloaden.
-
-Link naar de productpagina: https://www.velleman.eu/products/view/?id=470472
+Link naar de productpagina: [https://www.velleman.eu/products/view/?id=470472](https://www.velleman.eu/products/view/?id=470472)
